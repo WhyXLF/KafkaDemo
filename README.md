@@ -1,2 +1,2 @@
 # KafkaDemo
-将整合Kafka做一个Web项目
+* 整合SpringBoot+Spring Security+Thymeleaf+Kafka做一个简单的Web项目
